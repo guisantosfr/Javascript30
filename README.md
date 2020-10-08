@@ -8,4 +8,5 @@ This repository contains the 30 projects from the [JavaScript30](https://javascr
 The challenge is to build 30 different things in 30 days with vanilla JavaScript (no frameworks, libraries, etc.).
 
 ## Contents
-1. **Javascript Drum Kit** - Key Codes, Listening to events and playing sounds
+1. **Javascript Drum Kit** - Key codes, listening to events and playing sounds
+2. **JS + CSS Clock** - Rotation in css and working with time in JS
