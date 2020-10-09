@@ -48,3 +48,17 @@ body {
   transition: all 0.05s;
   transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
+
+.hour-hand {
+  height: ;
+  background: linear-gradient(-45deg, black 50%, transparent 50%);
+}
+
+.min-hand {
+  height: 4px;
+  background: linear-gradient(-45deg, black 80%, transparent 80%);
+}
+
+.second-hand {
+  height: 2px;
+}
