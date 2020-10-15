@@ -13,3 +13,4 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 3. **Playing with CSS Variables and JS** - Declaring and using CSS variables and updating their values using JS.
 4. **Array Cardio Day 1** - Working with array methods: filter, map, sort and reduce.
 5. **Flex Panels Image Gallery** - CSS Flexbox combined with transitions
+6. **Ajax Type Ahead** - Ajax promise, fetch, spread operator and regular expressions
