@@ -17,3 +17,4 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 7. **Array Cardio Day 2** - Other array methods: *Some, Every, Find and FindIndex*.
 8. **Fun With HTML5 Canvas** - Fundamentals of manipulating a canvas element.
 9. **14 Must Know Dev Tools Tricks** - Console tricks: `console.error()`, `console.assert()`, `console.time()` and more.
+10. **Hold Shift to Check Multiple Checkboxes**
