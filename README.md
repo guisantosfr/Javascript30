@@ -21,3 +21,4 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 11. **Custom HTML5 Video Player** - Getting elements with `querySelector` and `querySelectorAll`, setting listeners and building functions that deal with that elements.
 12. **Key Sequence Detection(KONAMI CODE)** - Detect a key sequence using array and the `Array.splice()` method.
 13. **Slide In on Scroll** - Window events and debouncing.
+14. **Objects and Arrays - Reference VS Copy** - Differences between copy and reference with arrays and objects and how to make them.
