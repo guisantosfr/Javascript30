@@ -23,3 +23,4 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 13. **Slide In on Scroll** - Window events and debouncing.
 14. **Objects and Arrays - Reference VS Copy** - Differences between copy and reference with arrays and objects and how to make them.
 15. **LocalStorage and Event Delegation** - Persisting data even with page refreshing and listen for an event in a parent element.
+16. **CSS Text Shadow Mouse Move Effect** - Destructuring and updating the `textShadow` CSS property
