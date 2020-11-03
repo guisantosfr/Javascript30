@@ -25,3 +25,4 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 15. **LocalStorage and Event Delegation** - Persisting data even with page refreshing and listen for an event in a parent element.
 16. **CSS Text Shadow Mouse Move Effect** - Destructuring and updating the `textShadow` CSS property
 17. **Sorting Band Names without articles** - Using `Array.sort()` and regular expression to sort a string array without "A", "An" or "The".
+18. **Tally String Times with Reduce** - Using `Array.reduce()` to add up times from an HTML unordered List.
