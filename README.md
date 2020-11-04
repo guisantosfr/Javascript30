@@ -23,7 +23,10 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 13. **Slide In on Scroll** - Window events and debouncing.
 14. **Objects and Arrays - Reference VS Copy** - Differences between copy and reference with arrays and objects and how to make them.
 15. **LocalStorage and Event Delegation** - Persisting data even with page refreshing and listen for an event in a parent element.
-16. **CSS Text Shadow Mouse Move Effect** - Destructuring and updating the `textShadow` CSS property
+16. **CSS Text Shadow Mouse Move Effect** - Destructuring and updating the `textShadow` CSS property.
 17. **Sorting Band Names without articles** - Using `Array.sort()` and regular expression to sort a string array without "A", "An" or "The".
 18. **Tally String Times with Reduce** - Using `Array.reduce()` to add up times from an HTML unordered List.
 19. **Unreal Webcam Fun** - Accessing webcam to take pictures, add filters and download them.
+20. **Native Speech Recognition** - Recognizing speech and transcripting it to the screen creating paragraphs in the DOM by JS.
+
+Observation: To run the codes from the days 19 and 20, you need to run `npm install` and `npm start` in the respective directory. (Needs [Node.js](https://nodejs.org/) to be installed). 
