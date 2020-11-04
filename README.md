@@ -28,5 +28,6 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 18. **Tally String Times with Reduce** - Using `Array.reduce()` to add up times from an HTML unordered List.
 19. **Unreal Webcam Fun** - Accessing webcam to take pictures, add filters and download them.
 20. **Native Speech Recognition** - Recognizing speech and transcripting it to the screen creating paragraphs in the DOM by JS.
+21. **Geolocation based Speedometer and Compass** - Getting heading and speed from Geolocation.
 
-Observation: To run the codes from the days 19 and 20, you need to run `npm install` and `npm start` in the respective directory. (Needs [Node.js](https://nodejs.org/) to be installed). 
+Observation: To run the codes from the days 19, 20 and 21, you need to run `npm install` and `npm start` in the respective directory. (Needs [Node.js](https://nodejs.org/) to be installed). 
