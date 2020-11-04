@@ -32,5 +32,6 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 22. **Follow Along Links** - Applying a CSS hover effect in a series of links. Using `getBoundClientRect()`.
 23. **Speech Synthesis** - Doing Text to Voice, using the Speech Synthesis API that comes in most modern browsers.
 24. **Sticky Nav** - Fixing a navigation bar when scrolling down the page.
+25. **Event Capture, Propagation, Bubbling and Once** - More about the `.addEventListener()` function, that has been used throughout almost all codes from this project.
 
 Observation: To run the codes from days 19, 20 and 21, you need to run `npm install` and `npm start` in the respective directory. (Needs [Node.js](https://nodejs.org/) to be installed). 
