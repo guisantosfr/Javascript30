@@ -34,5 +34,6 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 24. **Sticky Nav** - Fixing a navigation bar when scrolling down the page.
 25. **Event Capture, Propagation, Bubbling and Once** - More about the `.addEventListener()` function, that has been used throughout almost all codes from this project.
 26. **Stripe Follow Along Dropdown** - Applying the effect that [Stripe](https://stripe.com/) has in its navigation bar.
+27. **Click and Drag to Scroll** - Applying effect to click and drag with the mouse.
 
 Observation: To run the codes from days 19, 20 and 21, you need to run `npm install` and `npm start` in the respective directory. (Needs [Node.js](https://nodejs.org/) to be installed). 
