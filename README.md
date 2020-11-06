@@ -37,6 +37,6 @@ The challenge is to build 30 different things in 30 days with vanilla JavaScript
 27. **Click and Drag to Scroll** - Applying effect to click and drag with the mouse.
 28. **Video Speed Controller UI** - Combining `"mousemove"` events with HTML5 video.
 29. **Countdown Clock** - Creating a countdown clock with button options and a custom form.
-30. **Whack A Mole Game** - 
+30. **Whack A Mole Game** - A little bit of fun to end the project.
 
 Observation: To run the codes from days 19, 20 and 21, you need to run `npm install` and `npm start` in the respective directory. (Needs [Node.js](https://nodejs.org/) to be installed). 
