@@ -49,6 +49,27 @@ body {
   transform: translateY(-3px); /* account for the height of the clock hands */
 }
 
+.numbers {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  font-size: 3rem;
+  transform: rotate(var(--rotation));
+}
+
+.number12 { --rotation: 0deg;   }
+.number1  { --rotation: 30deg;  }
+.number2  { --rotation: 60deg;  }
+.number3  { --rotation: 90deg;  }
+.number4  { --rotation: 120deg; }
+.number5  { --rotation: 150deg; }
+.number6  { --rotation: 180deg; }
+.number7  { --rotation: 210deg; }
+.number8  { --rotation: 240deg; }
+.number9  { --rotation: 270deg; }
+.number10 { --rotation: 300deg; }
+.number11 { --rotation: 330deg; }
+
 .hand {
   width: 50%;
   height: 6px;
