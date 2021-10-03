@@ -3,7 +3,6 @@ const itemsList = document.querySelector('.plates');
 let items = JSON.parse(localStorage.getItem('items')) || [];
 const deleteItem= document.querySelectorAll('.delete');
 const clearAll= document.querySelector('.clear-all');
-const selectAll= document.querySelector('.select-all');
 
 function addItem(e){
   e.preventDefault();
@@ -25,8 +24,7 @@ function populateList(plates = [], platesList){
   platesList.innerHTML = plates.map((plate, i) => {
     return `
     <li>
-      <input type="checkbox" data-index=${i} id="item${i}" ${
-        plate.done ? 'checked' : ''} />
+      <input type="checkbox" data-index=${i} id="item${i}" ${plate.done ? 'checked' : ''} />
       <label for="item${i}">${plate.text}</label>
       <button class="delete" onclick="dltItem(${i})">Delete</button>
     </li>
@@ -52,13 +50,11 @@ function dltItem(index){
 
 addItems.addEventListener('submit', addItem);
 itemsList.addEventListener('click', toggleDone);
-
 clearAll.addEventListener('click', function(){  
   items.splice(0,items.length);
   localStorage.clear();
   populateList(items, itemsList);
 })
-
 
 populateList(items, itemsList);
 
