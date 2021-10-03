@@ -79,3 +79,49 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.moreaction{
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete{
+  padding: 5px;
+  background-color: rgb(233, 52, 52);
+  color: white;
+}
+
+.delete:hover{
+  background-color: tomato;
+}
+
+.clear-all .select-all{
+  padding: 10px; 
+  border-radius: 5px;
+}
+
+.clear-all>button{
+  padding: 5px;
+  background-color: rgb(233, 52, 52);
+  color:white;
+}
+
+.clear-all>button:hover{
+  background-color: tomato; 
+}
+
+.select-all>button{
+  padding: 5px;
+  background-color: rgb(38, 38, 233);
+  border-color: rgb(197, 181, 181);
+  color: white;
+}
+
+.select-all>button:hover{
+  background-color: rgb(226, 202, 202);  
+}
+
+button{
+  border-color: rgb(197, 181, 181);
+}
