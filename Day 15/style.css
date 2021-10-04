@@ -79,3 +79,45 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.moreaction{
+  margin: 10px 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.delete{
+  padding: 7px;
+  border: none;
+  background-color: rgb(240, 16, 16);
+  color: white;
+  border-radius: 5px;
+}
+
+.delete:hover{
+  background-color: rgb(202, 14, 14); 
+  transition: all 0.3s ease-out; 
+}
+
+.clear-all {
+  padding: 10px; 
+}
+
+.clear-all>button{
+  padding: 10px;
+  border: none;
+  background-color: #f80e06;
+  color:white;
+  border-radius: 5px;
+}
+
+.clear-all>button:hover{
+  background-color: rgb(214, 42, 12); 
+  transition: all 0.4s ease-out; 
+}
+
+
+
+button{
+  border-color: rgb(197, 181, 181);
+}
